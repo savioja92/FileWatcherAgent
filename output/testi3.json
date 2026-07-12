@@ -1,0 +1,52 @@
+{
+  "meeting_details": {
+    "date": "20.3",
+    "format": "remote call (Whatsapp)"
+  },
+  "summary": "This document outlines the questions prepared for and notes taken from a meeting or informational discussion held on March 20th via WhatsApp. The discussion primarily focused on understanding various aspects of professional life, including experiences in different job roles, the evolution of IT recruitment, comparisons of work-life across sectors (retail, creative, IT), reasons for job success, and the variations in company cultures both domestically and internationally. Key takeaways from the discussion included insights into the realities of IT work, cultural differences (especially between Finland and Asia), the relevance of Microsoft skills for specific IT roles, and career advice related to Aalto University.",
+  "core_entities": {
+    "dates": ["20.3"],
+    "industries": ["IT-ala (IT sector)", "Kaupan ala (Retail sector)", "Video/luova ala (Video/creative sector)"],
+    "companies_organizations": ["Microsoft", "Aalto yliopisto (Aalto University)"],
+    "locations": ["Suomi (Finland)", "Kansainvälisesti (Internationally)", "Intia (India)", "Aasia (Asia)"],
+    "concepts": [
+      "Työtehtävät (Job roles)",
+      "Työelämän käytännöt (Work-life practices)",
+      "Rekrytointi (Recruitment)",
+      "Yrityskulttuuri (Company culture)",
+      "Avokonttori (Open-plan office)",
+      "Konsultointityöt (Consulting work)",
+      "Frontend",
+      "Suunnittelu (Design)",
+      "Työnhaku (Job seeking)"
+    ]
+  },
+  "key_points": {
+    "questions_for_discussion": [
+      "Experiences in different job roles.",
+      "Work-life practices and 'rules of the game'.",
+      "How IT recruitment has changed from career start to present; specifically, if any requirements or emphases have been removed or added.",
+      "Differences between work-life in the retail, video/creative, and IT sectors, what to expect, and what to prepare for (identifying the biggest difference).",
+      "Reasons for securing past and current jobs.",
+      "Diversity of company cultures in Finland and internationally.",
+      "How Finnish company culture differs from international IT environments and whether different operating methods are required."
+    ],
+    "notes_from_discussion": {
+      "topics_covered_in_discussion": [
+        "Company culture in various companies and cultures.",
+        "Open-plan office work and its effects.",
+        "Differences between companies.",
+        "Job searching in the present vs. the past."
+      ],
+      "insights_on_it_work": "Provided a good understanding of what to expect from IT jobs and the nature of the work. Significant differences exist, e.g., between the public sector, universities, and large corporations.",
+      "cultural_differences": {
+        "general": "Generally, different nationalities coexist well.",
+        "specific_examples": "A clear hierarchical difference between a boss and subordinate is observed in India/Asia, whereas in Finland, everyone speaks freely with each other."
+      },
+      "technology_and_career_advice": {
+        "microsoft_environment": "Learning the Microsoft environment is less critical for specialization in design/frontend. It can be learned on the job when performing consulting tasks if needed, even without prior experience.",
+        "aalto_university": "Good tips were given regarding the work environment at Aalto University and applying for internships there."
+      }
+    }
+  }
+}
