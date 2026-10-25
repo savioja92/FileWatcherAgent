@@ -81,7 +81,7 @@ fs.watch(inputDir, async (eventType, fileName) => {
     responseText = responseText.replace(/```json/g, '').replace(/```/g, '').trim();
 
     const baseName = path.parse(fileName).name;
-    const outputFileName = '${baseName}.json';
+    const outputFileName = `${baseName}.processed.json`;   
     const outputPath = path.join(outputDir, outputFileName);
 
     fs.writeFileSync(outputPath, responseText);
